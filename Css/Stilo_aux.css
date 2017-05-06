@@ -1,0 +1,69 @@
+.pequeña{
+	width: 250px;
+	height: 200px;
+}
+.larga{
+	width: 450px;
+	height: 200px;
+}
+
+.mediana{
+	width: 300px;
+	height: 300px;
+}
+
+.grande{
+	width: 500px;
+	height: 500px;
+}
+.menu{
+    font-size: 10px;
+}
+h1,h2, h3{
+	font-size: 15px;
+	text-align: center;
+	color:#121CEE;
+}
+h4{
+	font-size: 40px;
+	font-weight: 900;
+	color: #FFF01E;
+	text-align: center;
+
+}
+
+h5{
+	font-size: 10px;
+	font-weight: 400;
+	color: #41D703;
+}
+
+
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+ main {
+   flex: 1 0 auto;
+ }
+
+ @font-face {
+   font-family: "Mystery Quest";
+   src: url("fuentes/mystery-quest.woff");
+ }
+
+.Footer_Nombres{
+	font-size: 30px;
+	color: #180EE8;
+	font-family: "Mystery Quest", cursive;
+}
+
+.Footer_Texto{
+
+	color: #310084;
+	font-family: "Mystery Quest", cursive;
+    font-size: 150%;
+
+}
