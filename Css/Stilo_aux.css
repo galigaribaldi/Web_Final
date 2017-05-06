@@ -43,6 +43,7 @@ body {
    display: flex;
    min-height: 100vh;
    flex-direction: column;
+   background-color: #C8D4D1;
  }
 
  main {
@@ -62,8 +63,12 @@ body {
 
 .Footer_Texto{
 
-	color: #310084;
+	color: #1A7FE5;
 	font-family: "Mystery Quest", cursive;
-    font-size: 150%;
+    font-size: 15px;
+}
 
+a{
+	color: #FFE006;
+	font-size: 15px;
 }
