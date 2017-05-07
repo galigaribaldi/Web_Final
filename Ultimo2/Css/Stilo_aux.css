@@ -1,0 +1,85 @@
+.pequeña{
+	width: 200px;
+	height: 200px;
+}
+.larga{
+	width: 450px;
+	height: 200px;
+}
+
+.mediana{
+	width: 300px;
+	height: 300px;
+}
+
+.grande{
+	width: 500px;
+	height: 500px;
+}
+.titulo{
+	font-size: 30px;
+	color:#121CEE;
+}
+.texto{
+	font-size: 18px;
+	color:#11A321;
+}
+.t{
+	font-size: 5px;
+	color:#121CEE;
+}
+/*
+h1,h2,h3{
+	font-size: 5px;
+	color:#121CEE;
+}*/
+/*Grandes y amarrillas*/
+h4{
+	font-size: 40px;
+	font-weight: 900;
+	color: #FFF01E;
+	text-align: center;
+
+}
+
+h5{
+	font-size: 30px;
+	font-weight: 400;
+	color: #41D703;
+}
+/*Azules y pqeueñas*/
+.barra{
+	font-size: 8px;
+	font-weight: 400;
+	color:#121CEE;
+
+}
+
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+   background-color: #C8D4D1;
+ }
+
+ main {
+   flex: 1 0 auto;
+ }
+
+.Footer_Nombres{
+	font-size: 30px;
+	color: #180EE8;
+	font-family: "Mystery Quest", cursive;
+}
+
+.Footer_Texto{
+
+	color: white;
+	font-family: "Mystery Quest", cursive;
+    font-size: 15px;
+}
+
+.a{
+	color: red;
+	font-size: 15px;
+}

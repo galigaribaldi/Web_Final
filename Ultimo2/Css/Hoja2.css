@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+div#contenedor{
+    margin:auto;
+    margin-top: 60px
+    width: 2500px;
+    height: 300px;
+    align-items: center;
+}
+
+div#izquierda{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+
+div#centro{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+
+div#derecha{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
